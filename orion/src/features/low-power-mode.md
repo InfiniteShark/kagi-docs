@@ -21,6 +21,8 @@ You can then click the **Enable** button in the window that appears.
 
 You can disable Low Power Mode using the same menu option.
 
+To prevent specific tabs from being suspended in Low Power Mode, you can pin the tab bright-clicking the tab in the tab bar and selecting **Pin Tab**
+
 <a name="ios"></a>
 ## iOS Low Power Mode
 
